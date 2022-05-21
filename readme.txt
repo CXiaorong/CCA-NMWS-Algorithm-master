@@ -1,8 +1,8 @@
 Operating environment：Windows 10，R3.4.1
 
 Input datas:
-	(1)binary mutation matrix.   sourceFiles\data\GBM\SNVdata_440.csv     sourceFiles\data\OVCA\SNVdata_2547.csv   sourceFiles\data\THCA\SNVdata_3420.csv
-	(2)network matrix.					 sourceFiles\data\GBM\network_440.csv    sourceFiles\data\OVCA\network_2547.csv   sourceFiles\data\THCA\SNVdata_3420.csv
+	(1)binary mutation matrix.   data\GBM\SNVdata_440.csv     data\OVCA\SNVdata_2547.csv   data\THCA\SNVdata_3420.csv
+	(2)network matrix.	     data\GBM\network_440.csv    data\OVCA\network_2547.csv   data\THCA\SNVdata_3420.csv
 			
 Steps:
 	1.First select the function(1)-function(14) function and run it.
