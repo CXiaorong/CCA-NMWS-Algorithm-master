@@ -30,6 +30,8 @@ Example of Q file input to algorithm, Both their rows and columns represent gene
 	         function(12): Cooperative pool evolution process.
 	         function(13): Initialize the population function
 	         function(14): significance test function
+![image](https://user-images.githubusercontent.com/105973069/169654152-4693477d-dbcd-48fc-b427-2cd78d5d981c.png)
+
 	2.load data
 	3.Initialization parameters.
 	4.Iterative loop
