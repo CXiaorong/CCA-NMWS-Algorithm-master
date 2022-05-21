@@ -33,5 +33,7 @@ Example of Q file input to algorithm, Both their rows and columns represent gene
 ![image](https://user-images.githubusercontent.com/105973069/169654152-4693477d-dbcd-48fc-b427-2cd78d5d981c.png)
 
 	2.load data
+![image](https://user-images.githubusercontent.com/105973069/169654168-3b906f6b-8546-452f-a19f-d3fff0bb6c8b.png)
+
 	3.Initialization parameters.
 	4.Iterative loop
