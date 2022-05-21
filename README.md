@@ -16,7 +16,7 @@ Example of Q file input to algorithm, Both their rows and columns represent gene
 ## Output: a set of genes corresponding to submatrix M;	
 	A gene set and its corresponding fitness function value.
 	For example: GBM dataset, k=5, the result is: "CDKN2A" "MDM2"   "MDM4"   "RB1"    "TP53"   "1.05083333333333"	
-![image](https://user-images.githubusercontent.com/105973069/169654086-fbe137a9-8e24-4652-979d-85d363cec11a.png)
+![image](https://user-images.githubusercontent.com/105973069/169654845-ee32a838-ecab-448e-be0c-f361c82a20b2.png)
 	
 ## Steps:
 ### 1.First select the function(1)-function(14) function and run it.
