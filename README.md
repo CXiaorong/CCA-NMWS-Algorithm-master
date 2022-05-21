@@ -1,5 +1,5 @@
 # CCA-NMWS-Algorithm-master
-In this project, a Competitive Co-evolution Algorithm CCA-NMWS is proposed for solving the NMWS model. The input is a binary mutation matrix A, a connected PPI network Q and a parameter K. The output is a |P|X K submatrix M. In the CCA-NMWS algorithm, multiple populations evolve independently, and perform both competition and cooperation simultaneously according to the competition fitness. 
+In this project, a Competitive Co-evolution Algorithm CCA-NMWS is proposed for solving the NMWS model. The input is a binary mutation matrix A, a connected PPI network Q and a parameter K. The output is a set of genes corresponding to submatrix M. In the CCA-NMWS algorithm, multiple populations evolve independently, and perform both competition and cooperation simultaneously according to the competition fitness. 
 
 ## Operating environment：
 Windows 10，R3.4.1
