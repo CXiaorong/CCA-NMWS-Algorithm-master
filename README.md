@@ -15,7 +15,7 @@ Example of Q file input to algorithm, Both their rows and columns represent gene
 ![image](https://user-images.githubusercontent.com/105973069/169654086-fbe137a9-8e24-4652-979d-85d363cec11a.png)
 	
 # Steps:
-	1.First select the function(1)-function(14) function and run it.
+### 1.First select the function(1)-function(14) function and run it.
 	         function(1): Calculate the actual number of edges in the network
 	         function(2): fitness function--NMWS model
 	         function(3): Compute the selection probability function.
@@ -32,11 +32,11 @@ Example of Q file input to algorithm, Both their rows and columns represent gene
 	         function(14): significance test function
 ![image](https://user-images.githubusercontent.com/105973069/169654152-4693477d-dbcd-48fc-b427-2cd78d5d981c.png)
 
-	2.load data
+### 2.load data
 ![image](https://user-images.githubusercontent.com/105973069/169654168-3b906f6b-8546-452f-a19f-d3fff0bb6c8b.png)
 
-	3.Initialization parameters.
+### 3.Initialization parameters.
 ![image](https://user-images.githubusercontent.com/105973069/169654190-af0a2db5-8949-42f8-bd04-cfd7d3c2fccf.png)
 
-	4.Iterative loop
+### 4.Iterative loop
 ![image](https://user-images.githubusercontent.com/105973069/169654212-67e83462-7847-4999-9631-870cc68ba741.png)
