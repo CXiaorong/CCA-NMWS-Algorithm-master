@@ -6,6 +6,7 @@ Example of A input to algorithm,  Their rows represent the same set of cancer sa
 
 * network matrix: data\GBM\network_440.csv ;   data\OVCA\network_2547.csv ;  data\THCA\SNVdata_3420.csv <br>
 Example of Q file input to algorithm, Both their rows and columns represent genes.
+![image](https://user-images.githubusercontent.com/105973069/169654006-4ab5f255-d3cf-4c56-992e-23da59208a61.png)
 
 ## Output: a set of genes corresponding to submatrix M;	
 	A gene set and its corresponding fitness function value.
