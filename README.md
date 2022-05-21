@@ -5,11 +5,11 @@ In this project, a Competitive Co-evolution Algorithm CCA-NMWS is proposed for s
 Windows 10，R3.4.1
 
 ## Input datas: a weighted non-binary mutation matrix A, a PPI network Q, a parameter K; <br>
-* binary mutation matrix: data\GBM\SNVdata_440.csv ;    data\OVCA\SNVdata_2547.csv ;  data\THCA\SNVdata_3420.csv <br>
+* binary mutation matrix: data\GBM_SNVdata_440.csv ;    data\OVCA_SNVdata_2547.csv ;  data\THCA_SNVdata_3420.csv <br>
 Example of A input to algorithm,  Their rows represent the same set of cancer samples, and their columns represent two sets of genes.<br>
 ![image](https://user-images.githubusercontent.com/105973069/169654006-4ab5f255-d3cf-4c56-992e-23da59208a61.png)
 
-* network matrix: data\GBM\network_440.csv ;   data\OVCA\network_2547.csv ;  data\THCA\SNVdata_3420.csv <br>
+* network matrix: data\GBM_network_440.csv ;   data\OVCA_network_2547.csv ;  data\THCA_SNVdata_3420.csv <br>
 Example of Q file input to algorithm, Both their rows and columns represent genes.
 ![image](https://user-images.githubusercontent.com/105973069/169654040-765489f4-7d48-44f3-89d3-73e204380797.png)
 
