@@ -1,3 +1,7 @@
+# CCA-NMWS-Algorithm-master
+In this project, a Competitive Co-evolution Algorithm CCA-NMWS is proposed for solving the NMWS model. The input is a binary mutation matrix $A$, a connected PPI network $Q$ and a parameter $K$. The output is a $|P|\times K$ submatrix $M$. In the CCA-NMWS algorithm, multiple populations evolve independently, and perform both competition and cooperation simultaneously according to the competition fitness. 
+
+## Operating environment：
 Windows 10，R3.4.1
 
 ## Input datas: a weighted non-binary mutation matrix A, a PPI network Q, a parameter K; <br>
@@ -14,7 +18,7 @@ Example of Q file input to algorithm, Both their rows and columns represent gene
 	For example: GBM dataset, k=5, the result is: "CDKN2A" "MDM2"   "MDM4"   "RB1"    "TP53"   "1.05083333333333"	
 ![image](https://user-images.githubusercontent.com/105973069/169654086-fbe137a9-8e24-4652-979d-85d363cec11a.png)
 	
-# Steps:
+## Steps:
 ### 1.First select the function(1)-function(14) function and run it.
 	         function(1): Calculate the actual number of edges in the network
 	         function(2): fitness function--NMWS model
